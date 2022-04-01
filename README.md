@@ -1,1 +1,3 @@
-# The best lib since sliced bread
+# Before there was sliced bread ...
+
+... there was the bread slicer.
