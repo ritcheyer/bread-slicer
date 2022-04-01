@@ -4,13 +4,23 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Hello Joe.\" && exit 1"
   },
   "keywords": [
     "sliced",
     "bread",
+    "slicer",
+    "bread slicer",
     "sliced bread"
   ],
-  "author": "joepuzzo",
+  "author": "ritcheyer",
+  "contributors": [
+    "Matt Gross <magross@tesla.com>",
+    "Alison Stump <astump@tesla.com>",
+    "Austin Robinson <joepuzzo@uninformed.com>",
+    "John Faithorn <jfaithorn@tesla.com>",
+    "Mariia Zvereva <mzvereva@tesla.com>",
+    "Mica Tonge <mitonge@tesla.com>",
+  ],
   "license": "ISC"
 }
